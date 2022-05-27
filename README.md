@@ -1,12 +1,8 @@
-- 👋 Hi, I’m @chadgalusha. I live in Tennessee and am employed as Application Support for Philips. I deal with access for SAP, Salesforce, and am developing
-     an MVC web application for my team that displays information such as contact information, service names in ServiceNow, and who the Service Manager is for the
-     various applications my company uses.
+- 👋 Hi, I’m @chadgalusha. I live in Tennessee and am employed as Programmer/Developer for Capgemini.  My current project is focused on cloud resiliency for a POS system, which will ensure the store that uses the POS will have a continual connection to AWS resources. The primary langauge of this project is C#. We also use gherkin (SpecFlow) for behavior testing. AWS services such as API Gateway, Lambda, and DynamoDB are utilized heavily. With Capgemini I have learned technologies such as AWS services and Node.js.
 
 - 👀 I’m interested in learning all things software development! I want to continue learning and growing in my knowledge and abilities!
 
-- 🌱 I’m currently learning Application and Database Development in college (~graduation is Winter 2021). I am also continuing to learn C# and SQL primarily, but am
-      also interested in Python and Java (really, I'll be happy to take on any language). On the side I am learning more about MVC and API projects within the dotnet
-      environment, and various small projects to sharpen my skills.
+- 🌱 I’m currently learning AWS services, behavior development with gherkin and SpecFlow, and NoSQL databases. 
 
 - 📫 How to reach me - chadgalusha83@gmail.com
 
